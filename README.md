@@ -71,6 +71,9 @@ In public.js, there are two place need to be customized:
   //--------------- Change this function every time------------------
   
   if((decodedData.name == 'flipPublicSaleState')){
+
+![image](https://github.com/xyyz12/mintTool/assets/91812763/79a7a1c9-9390-48fb-bbb0-7c850ae9499c)
+
   
   //-----------------------------------------------------------------
   //-----------------------------------------------------------------
