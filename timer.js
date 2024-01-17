@@ -121,7 +121,7 @@ const pendingTrasactions = async () => {
     }
   },3000);
   //-----------------------------------------------------------------
-    // your code
+    // your code 注意这里将 config.time 乘以1000，因为JavaScript的 Date.now() 返回的是毫秒级的时间戳，而 config.time 可能是秒级的时间戳
    
           
 };
