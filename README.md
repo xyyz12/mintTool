@@ -58,8 +58,10 @@ In public.js, there are two place need to be customized:
   //-----------------------------------------------------------------
   //--------------- Change this function every time------------------
   
-  let extraData =  await contract.methods.mintSAC(config.number);
-  
+  let extraData =  await contract.methods.mintSAC(config.number);   每次从合约中找到mint方法替换mintSAC
+
+  ![image](https://github.com/xyyz12/mintTool/assets/91812763/e25ce4f7-6892-461e-8b44-9cda27d1d5df)
+
   //-----------------------------------------------------------------
   //-----------------------------------------------------------------
   
