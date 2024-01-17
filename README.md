@@ -10,6 +10,7 @@ There are several places you need to change code based on contrat and mint setti
 
 # Pre-requirement
 1 Nodejs.v14 is recommended.装好这个，就可以直接运行了
+
 2 Alchemy wss api is required. The api is free. You can create account by yourself.注册一个Alchemy账户
 
 # Configuration
