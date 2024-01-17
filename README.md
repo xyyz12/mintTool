@@ -4,7 +4,7 @@
 
 ![image](https://github.com/xyyz12/mintTool/assets/91812763/8dbcb37e-ce92-4eb7-846a-fa26e1bb7be1)
 
-所有公共mint工具可以自定义话，这个项目是baseline,作为你的七点
+所有公共mint工具可以自定义化，这个项目是baseline,作为你的起点
 
 There are several places you need to change code based on contrat and mint settings. So you need to understand the smart contract first.
 
