@@ -84,4 +84,7 @@ timer.js比public.js多了一个定时器功能
 
 时间戳工具{ https://tool.lu/timestamp/ }
 
+![image](https://github.com/xyyz12/mintTool/assets/91812763/17f8a96b-0874-4ce6-bf21-6c74ddd3ee0d)
+
+
 # All privacy information are stored in your local workspace. The repo will not use any personal information or private key. Be careful about your wallet.
