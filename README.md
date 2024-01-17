@@ -80,4 +80,6 @@ In public.js, there are two place need to be customized:
   
 In abi.json, you need to copy the smart contract abi and paste in abi.json.  
 
+timer.js比public.js多了一个定时器功能
+
 # All privacy information are stored in your local workspace. The repo will not use any personal information or private key. Be careful about your wallet.
